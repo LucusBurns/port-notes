@@ -1,3 +1,1 @@
-# to be able to port any game regardless of what
-- to be useful and learn new stuff
-- to be well known
+-the dev of the game i wish to port is called incontinet cell
