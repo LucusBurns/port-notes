@@ -1,0 +1,10 @@
+name: Hello Mac
+on: push
+jobs:
+  hello:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: sw_vers
+      - run: xcodebuild -version
+      - run: cat goals.md 
